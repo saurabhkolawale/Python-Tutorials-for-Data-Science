@@ -5,3 +5,4 @@ These libraries includes:
 1. Pandas
 1. Matplotlib
 1. Plotly and Cufflinks
+1. Seaborn
